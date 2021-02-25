@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614227687272" clover="3.2.0">
-  <project timestamp="1614227687273" name="All files">
-    <metrics statements="32" coveredstatements="32" conditionals="14" coveredconditionals="13" methods="12" coveredmethods="12" elements="58" coveredelements="57" complexity="0" loc="32" ncloc="32" packages="6" files="6" classes="6"/>
+<coverage generated="1614231778974" clover="3.2.0">
+  <project timestamp="1614231778974" name="All files">
+    <metrics statements="42" coveredstatements="42" conditionals="14" coveredconditionals="13" methods="15" coveredmethods="15" elements="71" coveredelements="70" complexity="0" loc="42" ncloc="42" packages="7" files="7" classes="7"/>
     <package name="array-sum">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <file name="arraySum.js" path="C:\Users\HP\Desktop\github\testing-js\array-sum\arraySum.js">
@@ -39,6 +39,22 @@
         <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="27" count="1" type="stmt"/>
         <line num="30" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="project-euhler.fibonacci-even-sum">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="fiboSum.js" path="C:\Users\HP\Desktop\github\testing-js\project-euhler\fibonacci-even-sum\fiboSum.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="52" type="stmt"/>
+        <line num="9" count="52" type="stmt"/>
+        <line num="10" count="52" type="stmt"/>
+        <line num="13" count="64" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
       </file>
     </package>
     <package name="project-euhler.multplesOf3and5">
