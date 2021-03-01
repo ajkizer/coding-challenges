@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614231778974" clover="3.2.0">
-  <project timestamp="1614231778974" name="All files">
+<coverage generated="1614279401163" clover="3.2.0">
+  <project timestamp="1614279401163" name="All files">
     <metrics statements="42" coveredstatements="42" conditionals="14" coveredconditionals="13" methods="15" coveredmethods="15" elements="71" coveredelements="70" complexity="0" loc="42" ncloc="42" packages="7" files="7" classes="7"/>
     <package name="array-sum">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>

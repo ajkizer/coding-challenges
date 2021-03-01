@@ -1,6 +1,9 @@
 const fiboEvenSum = (n) => {
   
-    let fibArr = [1,2];
+    if(num < 2){
+        return 0
+    }
+    let fibArr = [0,1,2];
     let idx1 = 0;
     let idx2 = 1;
   
@@ -12,5 +15,6 @@ const fiboEvenSum = (n) => {
   
     return fibArr.filter(num => num%2===0).reduce((acc, val) => acc + val, 0)
   }
+
 
   module.exports = fiboEvenSum
